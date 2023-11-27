@@ -30,9 +30,7 @@
         "no-async-promise-executor",
         "no-empty"
     ],
-    "ssh_remotes": [
-        {"alias": "vinc", "destination": "/vserver/storages/vinc/libris/", "enabled": true}
-    ],
+    "ssh_remotes": [],
     "git_username": "libris",
     "git_email": "admin@libris.io",
     "git_remotes": [
