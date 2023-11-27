@@ -1,5 +1,5 @@
 <br>
-<img src="https://raw.githubusercontent.com/librisio/.github/master/libris/github.banner.png" alt="Libris"> 
+<img src="https://raw.githubusercontent.com/librisio/.github/master/media/github.banner.png" alt="Libris"> 
 <br>
 
 ## Libris Inc
