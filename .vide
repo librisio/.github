@@ -34,6 +34,6 @@
     "git_username": "libris",
     "git_email": "admin@libris.io",
     "git_remotes": [
-        {"remote": "origin", "branch": "main", "destination": "git@github.com:librisio/.github", "enabled": true}
+        {"remote": "origin", "branch": "main", "destination": "git@github.com:librisio/.github.git", "enabled": true}
     ]
 }
