@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/librisio/.github/master/media/github.banner.png" alt="Libris"> 
 <br>
 
-## Libris Inc
+# Libris Inc
 **Boost productivity with Libris: Automatically generate comprehensive modern documentation for your projects.**
 <br><br>
 Libris is an advanced documentation generation tool that automates the process of code documentation. It is designed to seamlessly integrate with the existing code development workflow, making it easy for developers to generate comprehensive and up-to-date documentation.
